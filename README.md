@@ -8,3 +8,6 @@ All handles, names, party affiliations and years of birth of the current members
 PDF) are available.
 
 
+
+Kept up to date according to [the archive of the Deutscher Bundestag](https://www.bundestag.de/dokumente/parlamentsarchiv/datenhandbuch/02/kapitel-02-475892)
+
