@@ -9,5 +9,5 @@ PDF) are available.
 
 
 
-Kept up to date according to [the archive of the Deutscher Bundestag](https://www.bundestag.de/dokumente/parlamentsarchiv/datenhandbuch/02/kapitel-02-475892)
+Kept up to date according to [the archive of the Deutscher Bundestag](https://www.bundestag.de/dokumente/parlamentsarchiv/datenhandbuch/02/kapitel-02-475892).
 
